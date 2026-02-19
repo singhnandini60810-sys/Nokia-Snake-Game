@@ -1,18 +1,18 @@
 # Nokia-Snake-Game
 Classic Nokia Snake game made with HTML, CSS &amp; JavaScript. Works on both PC and mobile with swipe + keyboard controls.
-# 🐍 Nokia Snake Game (Mobile Friendly)
+#Nokia Snake Game (Mobile Friendly)
 
 A simple Nokia-style Snake Game made using **HTML, CSS, and JavaScript**.  
 Supports both **keyboard controls** and **touch swipe controls** for mobile users.
 
-## 🎮 Features
+##Features
 - Start / Pause / Replay buttons
 - Game Over screen
 - Score and High Score system
 - Keyboard controls (Arrow keys)
 - Mobile friendly swipe controls + D-pad buttons
 
-## 📱 Controls
+##Controls
 ### PC / Laptop
 - Arrow keys to move
 
@@ -20,15 +20,15 @@ Supports both **keyboard controls** and **touch swipe controls** for mobile user
 - Swipe inside the game board
 - Or use on-screen arrow buttons
 
-## 🚀 How to Run
+##How to Run
 1. Download the project
-2. Open `index.html` in your browser
+2. Open `snake.html` in your browser
 
-## 🛠 Technologies Used
+##Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 📌 Author
-Made by **Your Name**
+##Author
+Made by **NANDINI SINGH**
 
